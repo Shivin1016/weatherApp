@@ -28,7 +28,7 @@ A simple and beautiful **Weather Application** that provides real-time weather u
 ## 📷 Screenshots  
 | Home Screen | Search Weather | Location Weather |
 |-------------|----------------|------------------|
-| ![Home](./assests/screenshots/home.png) | ![Search](./assests/screenshots/output.png) | ![Location](./assests/screenshots/screenrecordanimation.mp4) |  
+| ![Home](./assests/screenshots/home.png) | ![Search](./assests/screenshots/output.png) |
 
 ---
 
@@ -60,6 +60,5 @@ weather-app/
 │    ├── backgrounds/
 │    ├── screenshots/
 │         ├── home.png
-│         ├── output.png
-│         ├── screenrecordAnimation.mp4
+│         ├── output.png 
 │── README.md

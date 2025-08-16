@@ -25,7 +25,7 @@ body {
   background: linear-gradient(to right, var(--light-blue), var(--light-blue1));
   color: #fff;
   min-height: 100vh;
-  background: url(./assests/neda-astani-KWTkd7mHqKE-unsplash.jpg) no-repeat center center fixed;
+  background: url(./assests/background.jpg) no-repeat center center fixed;
   background-size: cover;   /* Ensures it always covers screen */
 }  
 
@@ -134,7 +134,7 @@ body {
 }
 
 .weatherIcon {
-  background: url(./vecteezy_3d-weather-icon-day-with-rain_24825195.png);
+  background: url(./assests/weatherIcon.png);
   background-position: 50% !important;
   background-repeat: no-repeat !important;
   background-size: contain !important;

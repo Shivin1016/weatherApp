@@ -15,21 +15,20 @@ A simple and beautiful **Weather Application** that provides real-time weather u
 - 💧 Shows **humidity**, **wind speed**, and **condition**  
 - ☁️ Dynamic **weather icons** (sunny, cloudy, rainy, etc.)  
 - 🎨 Custom **backgrounds & animations** based on weather  
-- 📱 Fully **responsive design**  
 
 ---
 
 ## 🛠️ Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript  
 - **API:** [OpenWeatherMap API](https://openweathermap.org/api)  
-- **Styling:** CSS animations (or Tailwind if used)  
+- **Styling:** CSS animations  
 
 ---
 
 ## 📷 Screenshots  
 | Home Screen | Search Weather | Location Weather |
 |-------------|----------------|------------------|
-| ![Home](https://via.placeholder.com/300x500.png?text=Home) | ![Search](https://via.placeholder.com/300x500.png?text=Search) | ![Location](https://via.placeholder.com/300x500.png?text=Location) |  
+| ![Home](./assests/screenshots/home.png) | ![Search](./assests/screenshots/output.png) | ![Location](./assests/screenshots/screenrecordanimation.mp4) |  
 
 ---
 
@@ -41,3 +40,26 @@ A simple and beautiful **Weather Application** that provides real-time weather u
 git clone https://github.com/Shivin/weather-app.git
 cd weather-app
 
+2️⃣ Add your API Key 
+Get a free API key from OpenWeatherMap. 
+Create a config.js file in the root folder and add:
+
+3️⃣ Run the app
+Open index.html directly in your browser
+
+Or use Live Server in VS Code
+
+folder structure
+weather-app/
+│── index.html
+│── style.css
+│── script.js
+│── config.js
+│── assets/
+│    ├── icons/
+│    ├── backgrounds/
+│    ├── screenshots/
+│         ├── home.png
+│         ├── output.png
+│         ├── screenrecordAnimation.mp4
+│── README.md
